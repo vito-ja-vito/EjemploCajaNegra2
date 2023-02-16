@@ -82,7 +82,7 @@ public class EjemploCajaNegra {
 				}
 			}
 		} else {
-			System.out.println("Lo siento, no se ha indicado la operacion adecuada. Cerramos el programa");
+			System.out.println("Lo siento, no se ha indicado la operacion adecuada. Cerramos el programa Y arriba Españaaaaaaaaaaaaa");
 		}
 	}
 }
